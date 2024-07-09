@@ -3,7 +3,7 @@
 Este projeto utiliza diversas bibliotecas de Python para realizar uma análise geoespacial no município do Rio de Janeiro. As bibliotecas utilizadas incluem `geopandas`, `pandas`, `numpy`, `seaborn` e `shapely`. Abaixo estão as instruções e explicações detalhadas sobre os passos realizados no código fornecido.
 
 ## Dados Utilizados
-- * RJ_Municipios_2022.shp *: Arquivo shapefile contendo os limites dos municípios do Rio de Janeiro.
+- RJ_Municipios_2022.shp: Arquivo shapefile contendo os limites dos municípios do Rio de Janeiro.
 - dados.csv: Dados tabulares contendo informações geográficas.
 - metro.geojson: Dados das linhas de metrô.
 - trem.geojson: Dados das linhas de trem.
